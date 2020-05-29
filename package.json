@@ -14,11 +14,11 @@
     "mysql2": "^1.0.0",
     "tslint": "^5.0.0",
     "tslint-config-typings": "^0.3.1",
-    "typedoc": "^0.7.0",
+    "typedoc": "^0.17.7",
     "typescript": "^2.2.1",
     "typings": "^2.0.0"
   },
   "dependencies": {
-    "@types/mysql": "types/mysql"
+    "@types/mysql": "ljones92/mysql"
   }
 }
